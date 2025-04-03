@@ -2,6 +2,7 @@
 
 ## Descrizione del Progetto
 Questo progetto prevede lo sviluppo di un modello di regressione per stimare il prezzo al metro quadro degli immobili nella regione di Sindian, Nuova Taipei, Taiwan. Il modello utilizza le coordinate geografiche (latitudine e longitudine) o altre variabili come l'età dell'immobile, la distanza dalla stazione MRT più vicina e il numero di minimarket nelle vicinanze per effettuare le previsioni. L'applicazione web è realizzata utilizzando Streamlit, consentendo agli utenti di inserire dati e ottenere stime in tempo reale.
+Sarà disponibile una finestra interattiva fatta con **Tableau** https://public.tableau.com/app/profile/ila.cesa/viz/Mappa_17437215838140/Foglio1?publish=yes 
 
 ## Descrizione del Dataset
 Il dataset utilizzato per addestrare i modelli è il **Real Estate Valuation Data Set**, che include le seguenti variabili:
